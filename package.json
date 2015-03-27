@@ -1,2 +1,17 @@
-# ecmascript-push-generator
-ECMAScript Push Generator Specification
+{
+  "name": "ecmascript-push-generator",
+  "version": "0.0.0",
+  "description": "Push generator spec",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/jhusain/ecmascript-push-generator.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhusain/ecmascript-push-generator/issues"
+  },
+  "homepage": "https://github.com/jhusain/ecmascript-push-generator",
+  "dependencies": {
+    "ecmarkup": "~1.0.3"
+  }
+}
